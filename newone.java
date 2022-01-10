@@ -20,7 +20,5 @@ public class newone{
     }
     
     public static void main(String[] args){
-        func1();
-        func2(69);
-    }
+        System.out.println("This is branch2 using branch2");    }
 }
