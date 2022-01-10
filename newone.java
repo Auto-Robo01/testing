@@ -20,7 +20,15 @@ public class newone{
     }
     
     public static void main(String[] args){
-        func1();
-        func2(69);
+        System.out.println("1. Addition");
+        System.out.println("2. Subtraction");
+        System.out.println("3. Multiplication");
+        System.out.println("4. Division");
+
+        int a;
+
+        System.out.println("This is the branch1 using branch1 because of branch1");
+        
+        
     }
 }
